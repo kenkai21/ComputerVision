@@ -24,7 +24,7 @@ Haar features are like kernels with specified weights, not like CNN's learned we
 
  Types  of Haar features below:
 
- ![alt text](/haar.jpg "Haar filters")
+ ![alt text](Markdown_images/haar.jpg "Haar filters")
 
  
 
@@ -38,7 +38,7 @@ Haar features applied to an image:
 
 
 
-![alt text](/haar_applied.png "Haar filters")
+![alt text](Markdown_images/haar_applied.png "Haar filters")
 
 ***
 
@@ -55,7 +55,7 @@ F( x ) = ∑ ( αᵢ * fᵢ( x ) )
 
 The next stage is cascading:
 
-![alt text](/Cascade.png "Cascading")
+![alt text](Markdown_images/Cascade.png "Cascading")
 
 
 
