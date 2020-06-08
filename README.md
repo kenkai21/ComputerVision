@@ -66,8 +66,9 @@ Using windows of different sizes, it scans through, checking for presence of fac
 The learned weights is then saved. They are the important components of this files "haarcascade_frontalface_default.xml" and "haarcascade_eye.xml". Please click  for others. [here](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 
- 
+ ## Reference
  "R.Leinhart, J.Maydt. An Extended Set of Haar-like Features for Rapid Object Detection. IEEE ICIP, vol.1, pp. 900-903, Sep. 2002."
  
 
-
+## License
+This project is licensed under the terms of the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
